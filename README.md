@@ -86,4 +86,4 @@ This project is released under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
-We thank the authors of [SMPL-X](https://smpl-x.is.tue.mpg.de/), [NeuMan](https://github.com/apple/ml-neuman), and [X-Humans](https://skype-line.github.io/projects/X-Humans/), [PERSONA](https://github.com/mks0601/PERSONA_RELEASE), [MimicMotion](https://github.com/Tencent/MimicMotion), [2D Gaussian Splatting](https://github.com/hbb1/2d-gaussian-splatting) for their excellent work and datasets.
+We thank the authors of [SMPL-X](https://smpl-x.is.tue.mpg.de/), [NeuMan](https://github.com/apple/ml-neuman), and [X-Humans](https://skype-line.github.io/projects/X-Humans/), [PERSONA](https://github.com/mks0601/PERSONA_RELEASE), [MimicMotion](https://github.com/Tencent/MimicMotion), [2D Gaussian Splatting](https://github.com/hbb1/2d-gaussian-splatting), [SyncHuman](https://github.com/IGL-HKUST/SyncHuman) for their excellent work and datasets.
